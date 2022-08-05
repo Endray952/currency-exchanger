@@ -1,0 +1,25 @@
+.navbar {
+  height: 100px;
+  width: 100vmax;
+  display: flex;
+  align-items: center;
+  background: lightslategray;
+  font-size: 24px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  box-shadow: 0 2px 2px;
+}
+.link,
+.link:visited {
+  color: black;
+}
+.link:hover {
+  text-decoration: underline;
+}
+.link {
+  margin-right: 15px;
+  text-decoration: none;
+}
+.links {
+  margin-left: auto;
+  margin-right: auto;
+}
